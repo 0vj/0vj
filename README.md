@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hello, I'm Amirmahdi Tafreshi! I'm a software engineer, Back-end Developer and minimal Sysadmin.
 
 <!--
 **mr-tafreshi/mr-tafreshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👨‍💻 I’m currently working on PaaSino and Mahdihost
+- 📫 How to reach me: [Email](mailto:a.tafreshi440@gmail.com) or [Telegram](https://t.me/amirmahdi_tafreshi)
+- 🌱 I’m currently learning Rust and golang
+- 💬 Ask me anything. I would love to discuss!
+- ❤️ I like free and open-source softwares, GNU/Linux, Docker, python
