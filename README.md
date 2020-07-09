@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 - 👨‍💻 I’m currently working on PaaSino and Mahdihost
 - 📫 How to reach me: [Email](mailto:a.tafreshi440@gmail.com) or [Telegram](https://t.me/amirmahdi_tafreshi)
-- 🌱 I’m currently learning Rust and golang
+- 🌱 I’m currently learning Rust and Golang
 - 💬 Ask me anything. I would love to discuss!
-- ❤️ I like free and open-source softwares, GNU/Linux, Docker, python
+- ❤️ I like free and open source software, GNU / Linux, Docker, Python
