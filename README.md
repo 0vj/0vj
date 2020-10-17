@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
+</p>
 - 👨‍💻 I’m currently working on PaaSino and Mahdihost
 - 📫 How to reach me: [Email](mailto:a.tafreshi440@gmail.com) or [Telegram](https://t.me/amirmahdi_tafreshi)
 - 🌱 I’m currently learning Rust and Golang
