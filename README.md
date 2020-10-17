@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image info](https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats)
-<!--<p align="justify">
+<p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
 </p>
-<p>👨‍💻 I’m currently working on PaaSino and Mahdihost</p><br>
-<p>📫 How to reach me: [Email](mailto:a.tafreshi440@gmail.com) or [Telegram](https://t.me/amirmahdi_tafreshi)</p><br>
-<p>🌱 I’m currently learning Rust and Golang</p><br>
-<p>💬 Ask me anything. I would love to discuss!</p><br>
-<p>❤️ I like free and open source software, GNU / Linux, Docker, Python</p>
--->
+👨‍💻 I’m currently working on PaaSino and Mahdihost<br>
+📫 How to reach me: <a href="mailto:a.tafreshi440@gmail.com">Email</a> or <a href="https://t.me/amirmahdi_tafreshi">Telegram</a><br>
+🌱 I’m currently learning Rust and Golang<br>
+💬 Ask me anything. I would love to discuss!<br>
+❤️ I like free and open source software, GNU / Linux, Docker, Python
