@@ -3,10 +3,10 @@
   <img width="20%" src="https://github.com/mr-tafreshi/mr-tafreshi/blob/master/dd1b75fb884d613a4d7a5ddea7036d495d15225e.png" />
 </p>
 <p align="center">Hello, I'm Amirmahdi Tafreshi! I'm a software engineer, Back-end Developer and minimal Sysadmin.</p>
-<p align="justify">
+<p align="justify; center">
   <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
 </p>
-<p>
+<p align="center">
 👨‍💻 I’m currently working on PaaSino and Mahdihost<br>
 📫 How to reach me: <a href="mailto:a.tafreshi440@gmail.com">Email</a> or <a href="https://t.me/amirmahdi_tafreshi">Telegram</a><br>
 🌱 I’m currently learning Rust and Golang<br>
