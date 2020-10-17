@@ -4,7 +4,7 @@
 </p>
 <p align="center">Hello, I'm Amirmahdi Tafreshi! I'm a software engineer, Back-end Developer and minimal Sysadmin.</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-tafreshi&show_icons=true" alt="Amirmahdi GitHub stats"></img>
 </p>
 <p align="center">
 👨‍💻 I’m currently working on PaaSino and Mahdihost<br>
