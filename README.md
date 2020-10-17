@@ -1,9 +1,8 @@
 ### Hi there 👋
+Hello, I'm Amirmahdi Tafreshi! I'm a software engineer, Back-end Developer and minimal Sysadmin.
 <p align="center">
   <img width="20%" src="https://github.com/mr-tafreshi/mr-tafreshi/blob/master/dd1b75fb884d613a4d7a5ddea7036d495d15225e.png" />
 </p>
-Hello, I'm Amirmahdi Tafreshi! I'm a software engineer, Back-end Developer and minimal Sysadmin.
-
 <!--
 **mr-tafreshi/mr-tafreshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
