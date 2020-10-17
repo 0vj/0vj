@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="justify">
+![image info](https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats)
+<!--<p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
 </p>
 <p>👨‍💻 I’m currently working on PaaSino and Mahdihost</p><br>
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently learning Rust and Golang</p><br>
 <p>💬 Ask me anything. I would love to discuss!</p><br>
 <p>❤️ I like free and open source software, GNU / Linux, Docker, Python</p>
+-->
