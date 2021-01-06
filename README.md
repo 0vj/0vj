@@ -2,10 +2,10 @@
 <p align="center">
   <img width="20%" src="https://github.com/mr-tafreshi/mr-tafreshi/blob/master/dd1b75fb884d613a4d7a5ddea7036d495d15225e.png" />
 </p>
-<p align="center">Hello, I'm Amirmahdi Tafreshi! I'm a software engineer, Back-end Developer and minimal Sysadmin.</p>
+<p align="center">Hello, I'm Amirmahdi Tafreshi! I'm a Back-end Developer. Python, Golang :) Interested in DevOps. Loves learning & teching</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-tafreshi&show_icons=true" alt="Amirmahdi GitHub stats"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tafreshi&theme=default&line_height=27&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-tafreshi&show_icons=true&theme=great-gatsby" alt="Amirmahdi GitHub stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tafreshi&theme=great-gatsby&line_height=27&layout=compact" />
 </p>
 <p align="center">
 👨‍💻 I’m currently working on PaaSino and Mahdihost<br>
