@@ -9,7 +9,6 @@
 <p align="center">
    <img src="https://img.shields.io/badge/-Arch_Linux-black?style=flat&logo=arch-linux">
    <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python">
-   <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust">
    <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
    <img src="https://img.shields.io/badge/-Vlang-black?style=flat-square&logo=v">
