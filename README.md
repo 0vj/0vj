@@ -5,23 +5,23 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=arch-linux">
-   <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python">
-   <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">
-   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-   <img src="https://img.shields.io/badge/-Vlang-black?style=flat-square&logo=v">
-   <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask">
-   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django">
-   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-   <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab">
-   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
-   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5">
-   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
-   <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
-   <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
-   <img src="https://img.shields.io/badge/-Rabbitmq-black?style=flat-square&logo=rabbitmq">
-   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
-   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
+   <img src="https://img.shields.io/badge/-python-05122A?style=flat-square&logo=python">
+   <img src="https://img.shields.io/badge/-Go-05122A?style=flat-square&logo=go">
+   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript">
+   <img src="https://img.shields.io/badge/-Vlang-05122A?style=flat-square&logo=v">
+   <img src="https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=flask">
+   <img src="https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django">
+   <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git">
+   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github">
+   <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=gitlab">
+   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb">
+   <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5">
+   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3">
+   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap">
+   <img src="https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=json">
+   <img src="https://img.shields.io/badge/-Rabbitmq-05122A?style=flat-square&logo=rabbitmq">
+   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker">
+   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux">
 
 </p>
 <p align="center">
