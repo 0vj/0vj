@@ -12,16 +12,16 @@
    <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask">
    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github">
-   <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=gitlab">
-   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb">
-   <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5">
-   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3">
-   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap">
-   <img src="https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=json">
-   <img src="https://img.shields.io/badge/-Rabbitmq-05122A?style=flat-square&logo=rabbitmq">
-   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker">
-   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux">
+   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+   <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab">
+   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
+   <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5">
+   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3">
+   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
+   <img src="https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json">
+   <img src="https://img.shields.io/badge/-Rabbitmq-05122A?style=flat&logo=rabbitmq">
+   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
+   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
 
 </p>
 <p align="center">
