@@ -4,7 +4,7 @@
 <h2 align="center"> 💻 Technologies </h2>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/-Arch_Linux-black?style=flat&logo=arch-linux">
+   <img src="https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=arch-linux">
    <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python">
    <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go">
    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
@@ -24,10 +24,11 @@
    <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux">
 
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-tafreshi&show_icons=true&theme=great-gatsby" alt="Amirmahdi GitHub stats"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tafreshi&theme=great-gatsby&line_height=27&layout=compact" />
+<a href="https://github.com/mr-tafreshi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-tafreshi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-tafreshi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 <p align="center">
 👨‍💻 I’m currently <img src="https://img.icons8.com/color/48/000000/work.png" width="20" height="20"/> working on PaaSino<br>
