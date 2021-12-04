@@ -7,10 +7,10 @@
    <img src="https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=arch-linux">
    <img src="https://img.shields.io/badge/-python-05122A?style=flat&logo=python">
    <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go">
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B">
+     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">
    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
    <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5">
-   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3">
+   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6">
    <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask">
    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
