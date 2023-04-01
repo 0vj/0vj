@@ -1,15 +1,15 @@
 <h1>Hi there 👋</h1>
-<p>Hello, I'm Amirmahdi Tafreshi! I'm a Back-end Developer(Python, Golang). Interested in DevOps & Security. Loves learning & teaching</p>
+<p>I'm <strong>Amirmahdi Tafarshi</strong>, A Back-end Developer(mostly with Python and Go). Interested in DevOps, Security. Loves learning & teaching</p>
+
 <h2> 💻 Technologies </h2>
 
 <p>
    <img src="https://img.shields.io/badge/-Arch_Linux-05122A?style=flat&logo=arch-linux">
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
    <img src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go">
-   <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask">
+   <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi">
    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
    <img src="https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json">
    <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes">
    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
