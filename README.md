@@ -15,15 +15,13 @@
    <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
 </p>
 <p>
-<a href="https://github.com/mr-tafreshi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-tafreshi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-tafreshi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0vj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0vj&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <p>
 👨‍💻 I’m currently 🔧 working on PaaSino<br>
 📫 How to reach me: ✉️ <a href="mailto:tafreshi.amirmahdi@protonmail.com">Email</a> or <a href="https://t.me/amirmahdi_tafreshi">Telegram</a><br>
-🌱 I’m currently learning kubernetes and Golang<br>
+🌱 I’m currently learning Kubernetes and Golang<br>
 💬 Ask me anything. I would ❤️ love to discuss!<br>
-❤️ I like free and open source software
+❤️ I like free and opensource software
 </p>
